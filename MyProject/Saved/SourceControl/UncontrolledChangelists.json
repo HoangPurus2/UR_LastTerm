@@ -5,7 +5,36 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Input/IMC_Default.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Input/Actions/IA_Move.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Input/Actions/IA_Look.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Input/Actions/IA_Jump.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Blueprints/GM_SinglePlayer.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/Blueprints/BP_Player.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
+				"E:/Tai Lieu/2024-2025/HK2/GAME/UR_LastTerm/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
 			]
 		}
 	]
